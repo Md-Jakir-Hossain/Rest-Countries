@@ -1,0 +1,21 @@
+.country {
+  border-radius: 10px;
+  border: 5px solid rgb(213, 247, 19);
+  background: #f5f4e5;
+  text-align: center;
+}
+img {
+  max-width: 200px;
+  max-height: 200px;
+}
+.arm {
+  width: 20px;
+  height: 20px;
+}
+h1 {
+  text-align: center;
+}
+.country:hover {
+  scale: 110%;
+  cursor: pointer;
+}
